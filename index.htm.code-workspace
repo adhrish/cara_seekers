@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\the_basics"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"basics.C": "cpp"
+		}
+	}
+}
